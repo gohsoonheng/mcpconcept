@@ -32,7 +32,3 @@ This project demonstrates a simple client-server architecture using MCP (Multi-C
 - `mcp` library
 - `nest_asyncio` library
 
-Install dependencies:
-```sh
-pip install mcp nest_asyncio
-```
